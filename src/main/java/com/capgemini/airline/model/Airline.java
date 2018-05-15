@@ -2,7 +2,6 @@ package com.capgemini.airline.model;
 
 import javax.persistence.Entity;
 
-@Entity
 public class Airline {
 
     private String name;
